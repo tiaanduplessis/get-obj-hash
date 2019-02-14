@@ -1,0 +1,1 @@
+function e(e){return e&&"object"==typeof e&&"default"in e?e.default:e}var r=e(require("fast-stringify")),t=e(require("blakejs")),i=e(require("nova-is-obj"));module.exports=function(e,u){return void 0===u&&(u="blake2sHex"),e=i(e)?e:{val:e},t[u](r(e))};
