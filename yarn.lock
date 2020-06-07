@@ -1361,8 +1361,6 @@ color-convert@^1.3.0, color-convert@^1.9.0, color-convert@^1.9.1:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"
   integrity sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==
-  dependencies:
-    color-name "1.1.3"
 
 color-name@1.1.3:
   version "1.1.3"
@@ -2389,10 +2387,10 @@ fast-levenshtein@~2.0.4:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
-fast-stringify@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/fast-stringify/-/fast-stringify-1.1.1.tgz#7abaff0e0ba09193a23cae940d6680f0c6f79e55"
-  integrity sha512-2oYQip2IKpGNOvVNhv5w6r3pI9BRSgoKZNsBnKCDXlc7envYhT2kYSejz11UZHVstGVCrUb6TWeENa4H1W5hwg==
+fast-stringify@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/fast-stringify/-/fast-stringify-2.0.0.tgz#bb5dd243fce053e91d04f68e595405ca656167e4"
+  integrity sha512-+b+ki4C5K/tw+RmyiehpRzHjWmeqPb3Wn0whMsi+JPrYjzdapybfGejhCTblfLBErPMRSToYXDObawLG9BN78A==
 
 fastparse@^1.1.1:
   version "1.1.2"
