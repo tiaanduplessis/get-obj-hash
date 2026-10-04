@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "blakejs": "^1.1.0",
-    "fast-stringify": "^1.1.1",
+    "fast-stringify": "^2.0.0",
     "nova-is-obj": "^1.0.0"
   },
   "files": [
